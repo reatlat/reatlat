@@ -12,6 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=reatlat&show_icons=true" />
 </picture>
 
+<!--
 <br/>
 
 <picture>
@@ -25,6 +26,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reatlat&layout=compact" />
 </picture>
+-->
 
 ---
 
