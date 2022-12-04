@@ -36,8 +36,6 @@
 [![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Freatlat%2F)](https://www.linkedin.com/in/reatlat/)
 [![CodePen](https://img.shields.io/twitter/url?label=CodePen&logo=codepen&style=social&url=https%3A%2F%2Fcodepen.io%2Freatlat%2F)](https://codepen.io/reatlat)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Freatlat)](https://twitter.com/reatlat)
-[![Telegram](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Freatlat)](https://t.me/reatlat)
-
 
 <!--
 **reatlat/reatlat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
