@@ -2,14 +2,14 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.zappa.dev/api?username=reatlat&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.zappa.dev/api?username=reatlat&show_icons=true&theme=dark&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.zappa.dev/api?username=reatlat&show_icons=true"
+    srcset="https://github-readme-stats.zappa.dev/api?username=reatlat&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.zappa.dev/api?username=reatlat&show_icons=true" />
+  <img src="https://github-readme-stats.zappa.dev/api?username=reatlat&show_icons=true&count_private=true" />
 </picture>
 
 <!--
@@ -17,14 +17,14 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.zappa.dev/api/top-langs/?username=reatlat&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.zappa.dev/api/top-langs/?username=reatlat&layout=compact&theme=dark&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.zappa.dev/api/top-langs/?username=reatlat&layout=compact"
+    srcset="https://github-readme-stats.zappa.dev/api/top-langs/?username=reatlat&layout=compact&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.zappa.dev/api/top-langs/?username=reatlat&layout=compact" />
+  <img src="https://github-readme-stats.zappa.dev/api/top-langs/?username=reatlat&layout=compact&count_private=true" />
 </picture>
 -->
 
