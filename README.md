@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alex Zappa
+# Hi there 👋 I'm Alex
 
 ### 🌍 By day
 Building & scaling web experiences at [Kandji](https://www.kandji.io) 🚀
