@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Alex
 
 ### 🌍 By day
-Building & scaling web experiences at [Kandji](https://www.kandji.io) 🚀
+Building & scaling web experiences at [Iru](https://www.iru.com) 🚀
 
 ### 🍊 By night
 Running [FreshJuice](https://freshjuice.dev) — crafting modern HubSpot themes, modules & open-source tools to keep the ecosystem fresh.
