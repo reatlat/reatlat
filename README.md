@@ -1,16 +1,16 @@
 # Hi there 👋 I'm Alex
 
-### 🌍 By day
-Building & scaling web experiences at [Iru](https://www.iru.com) 🚀
+Dad. Husband. Proud servant of two cats.
 
-### 🍊 By night
-Running [FreshJuice](https://freshjuice.dev) — crafting modern HubSpot themes, modules & open-source tools to keep the ecosystem fresh.
+By day, I craft web experiences. By night, I craft more web experiences. Weekends? Bold of you to assume I stop.
 
-### ⚡ Focus
-- HubSpot CMS Development
+I run [FreshJuice](https://freshjuice.dev) — a dev studio for teams who want fast, modern web. All juice, no pulp. 🍊
+
+### ⚡ What I build
+- HubSpot themes, modules & integrations
 - JAMstack & high-performance websites
 - Tailwind CSS, Alpine.js, Eleventy
-- Open-source contributions
+- Open-source tools for developers
 
 ### 🔗 Connect
 - [FreshJuice.dev](https://freshjuice.dev)
@@ -19,5 +19,7 @@ Running [FreshJuice](https://freshjuice.dev) — crafting modern HubSpot themes,
 - [CodePen](https://codepen.io/reatlat)
 
 ---
+
+Code machine mode: always on ☕
 
 [![Profile views](https://komarev.com/ghpvc/?username=reatlat&label=Profile%20views&style=social)](https://github.com/reatlat)
