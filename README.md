@@ -15,7 +15,6 @@ I run [FreshJuice](https://freshjuice.dev) — a dev studio for teams who want f
 ### 🔗 Connect
 - [FreshJuice.dev](https://freshjuice.dev)
 - [LinkedIn](https://linkedin.com/in/reatlat)
-- [eX.com](https://x.com/reatlat)
 - [CodePen](https://codepen.io/reatlat)
 
 ---
